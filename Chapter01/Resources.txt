@@ -1,0 +1,28 @@
+------------------------
+Chapter 1
+------------------------
+This file lists down websites mentioned in this Chapter.
+----------------------------------------------------------
+
+Blockchain Explorer - https://blockchain.info/
+
+Bitnation - https://bitnation.co/
+
+Bitcoin Wallet things to know - https://bitcoin.org/en/you-need-to-know, 
+
+Choosing your bitcoin wallet - https://bitcoin.org/en/choose-your-wallet
+
+Coinbase - Coinbase.com
+
+, Generate a Bitcoin Address - Bitaddress.org
+
+Bitcoin Exchanges - https://bitcoin.org/en/exchanges
+
+Find Bitcoin ATMs - coinatmradar.com
+
+Buy or sell Bitcoin in person - localbitcoins.com
+
+, Businesses that accept Bitcoin:
+- https://spendabit.co/
+- https://99bitcoins.com/who-accepts-bitcoins-payment-companies-stores-take-bitcoins/
+- https://coinmap.org/

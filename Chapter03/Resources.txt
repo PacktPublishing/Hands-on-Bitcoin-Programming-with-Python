@@ -1,0 +1,11 @@
+Bitcoin Payment API - https://bitpay.com/
+
+21.co Bitcoin SDK - https://21.co
+
+AWS create linux instance
+https://aws.amazon.com/premiumsupport/knowledge-center/create-linux-instance/
+
+AWS Connect to Instances
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html
+
+Python Bitcoin Exchange Prices module - https://github.com/dursk/bitcoin-price-api
