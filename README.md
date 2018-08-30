@@ -50,7 +50,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/HandsOnBitcoinProgrammingwithPython_ColorImages.pdf).
 
 
-### Related products <Other books you may enjoy>
+### Related products
 * Blockchain Quick Reference [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-quick-reference#utm_source=github&utm_medium=repository&utm_campaign=9781788995788) [[Amazon]](https://www.amazon.com/dp/1788995783)
 
 * Ethereum Projects for Beginners [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/ethereum-projects-beginners#utm_source=github&utm_medium=repository&utm_campaign=9781789537406) [[Amazon]](https://www.amazon.com/dp/1789537401)
@@ -63,10 +63,6 @@ Software LLP is an India-based software consultancy that provides consultancy se
 the area of software development and technical training. Harish has worked for McAfee
 and Intel for over 11 years. He is an expert in creating data visualizations using R, Python,
 and web-based visualization libraries.
-
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
